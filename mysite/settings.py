@@ -25,7 +25,7 @@ SECRET_KEY = '=$lnje@&zldvru-46n8gd*lsiovatwbds0@j+7brizxlxvz+k8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'lpoprocks.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'sendnoodles.pythonanywhere.com']
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 
